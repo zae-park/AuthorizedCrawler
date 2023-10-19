@@ -1,0 +1,5 @@
+{
+  "DK_SHOP": {"id":"default", "pw": "1234", "url": "https://gdadmin.edkshop.com/"},
+  "NAVER": {"id":"default", "pw": "1234", "url": "https://sell.smartstore.naver.com"},
+  "쿠팡": {"id": "default", "pw":  "1234", "url": "https://supplier.coupang.com"}
+}
