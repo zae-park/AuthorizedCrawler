@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "authorizedcrawler"
+version = "0.1.0"
+description = ""
+authors = ["zae-park <tom941105@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+random-user-agent = "^1.0.1"
+selenium = "^4.14.0"
+pyperclip = "^1.8.2"
+pymysql = "^1.1.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

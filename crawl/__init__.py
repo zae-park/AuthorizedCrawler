@@ -1,0 +1,1 @@
+from naver_smartstore_scrapper import NaverCrawler
